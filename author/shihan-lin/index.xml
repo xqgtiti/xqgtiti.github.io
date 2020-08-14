@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shihan Lin | Qinge Xie&#39;s Homepage</title>
+    <link>xqgtiti.github.io/author/shihan-lin/</link>
+      <atom:link href="xqgtiti.github.io/author/shihan-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shihan Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Oct 2018 01:25:11 +0800</lastBuildDate>
+    <image>
+      <url>/xqgtiti.github.io/author/shihan-lin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Shihan Lin</title>
+      <link>xqgtiti.github.io/author/shihan-lin/</link>
+    </image>
+    
+    <item>
+      <title>LBSLab: A User Data Collection System in Mobile Environments.</title>
+      <link>xqgtiti.github.io/publication/labs/</link>
+      <pubDate>Mon, 08 Oct 2018 01:25:11 +0800</pubDate>
+      <guid>xqgtiti.github.io/publication/labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding user activity patterns of the swarm app: A data-driven study.</title>
+      <link>xqgtiti.github.io/publication/swarm/</link>
+      <pubDate>Thu, 05 Oct 2017 20:35:43 +0800</pubDate>
+      <guid>xqgtiti.github.io/publication/swarm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

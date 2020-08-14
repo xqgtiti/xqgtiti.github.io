@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervised by Prof. Yu Xiao | Qinge Xie&#39;s Homepage</title>
+    <link>xqgtiti.github.io/author/supervised-by-prof.-yu-xiao/</link>
+      <atom:link href="xqgtiti.github.io/author/supervised-by-prof.-yu-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supervised by Prof. Yu Xiao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 11:53:31 +0800</lastBuildDate>
+    <image>
+      <url>/xqgtiti.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Supervised by Prof. Yu Xiao</title>
+      <link>xqgtiti.github.io/author/supervised-by-prof.-yu-xiao/</link>
+    </image>
+    
+    <item>
+      <title>Image Based Renovation Progress Estimation</title>
+      <link>xqgtiti.github.io/talk/aalto/</link>
+      <pubDate>Fri, 14 Aug 2020 11:53:31 +0800</pubDate>
+      <guid>xqgtiti.github.io/talk/aalto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
