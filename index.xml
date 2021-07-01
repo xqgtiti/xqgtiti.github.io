@@ -5,12 +5,20 @@
     <link>xqgtiti.github.io/</link>
       <atom:link href="xqgtiti.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Qinge Xie&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 11:53:31 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 01:25:04 +0800</lastBuildDate>
     <image>
       <url>/xqgtiti.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Qinge Xie&#39;s Homepage</title>
       <link>xqgtiti.github.io/</link>
     </image>
+    
+    <item>
+      <title>Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions.</title>
+      <link>xqgtiti.github.io/publication/mini/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/publication/mini/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Image Based Renovation Progress Estimation</title>
@@ -25,14 +33,6 @@
       <link>xqgtiti.github.io/publication/traffic/</link>
       <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
       <guid>xqgtiti.github.io/publication/traffic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions.</title>
-      <link>xqgtiti.github.io/publication/mini/</link>
-      <pubDate>Mon, 06 Jan 2020 01:25:04 +0800</pubDate>
-      <guid>xqgtiti.github.io/publication/mini/</guid>
       <description></description>
     </item>
     
@@ -66,6 +66,24 @@
       <pubDate>Mon, 06 Aug 2018 02:05:43 +0800</pubDate>
       <guid>xqgtiti.github.io/talk/traffic/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>xqgtiti.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>xqgtiti.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>xqgtiti.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>xqgtiti.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
+</description>
     </item>
     
     <item>

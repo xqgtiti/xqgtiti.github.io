@@ -5,12 +5,81 @@
     <link>xqgtiti.github.io/authors/</link>
       <atom:link href="xqgtiti.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2020 11:53:31 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 01:25:04 +0800</lastBuildDate>
     <image>
       <url>/xqgtiti.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>xqgtiti.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Ben Y. Zhao</title>
+      <link>xqgtiti.github.io/author/ben-y.-zhao/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/author/ben-y.-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haitao Zheng</title>
+      <link>xqgtiti.github.io/author/haitao-zheng/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/author/haitao-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qinge Xie</title>
+      <link>xqgtiti.github.io/author/qinge-xie/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/author/qinge-xie/</guid>
+      <description>&lt;p&gt;Hi, I am a PhD student in Computer Science at Georgia Tech, fortunately advised by Prof. 
+&lt;a href=&#34;https://frankli.ece.gatech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Li&lt;/a&gt;. Currently, I also work with Prof. 
+&lt;a href=&#34;https://netsec.ccert.edu.cn/people/duanhx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haixin Duan&lt;/a&gt; in 
+&lt;a href=&#34;https://netsec.ccert.edu.cn/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NISL Lab&lt;/a&gt; at Tsinghua University.&lt;/p&gt;
+&lt;p&gt;Before Gatech, I received my bachelor&#39;s in computer science in Zhejiang University of Technology, and received M.S. in computer science from Fudan University, advised by Prof. 
+&lt;a href=&#34;https://chenyang03.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yang Chen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I visited Aalto University in the 
+&lt;a href=&#34;http://mobilecloud.aalto.fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mobile Cloud Computing Group&lt;/a&gt;, advised by Prof. 
+&lt;a href=&#34;https://people.aalto.fi/yu.xiao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yu Xiao&lt;/a&gt; in 2018, and visited the University of Chicago in 
+&lt;a href=&#34;http://sandlab.cs.uchicago.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sand Lab&lt;/a&gt;, advised by Prof. 
+&lt;a href=&#34;http://people.cs.uchicago.edu/~ravenben/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Y. Zhao&lt;/a&gt; and Prof. 
+&lt;a href=&#34;http://people.cs.uchicago.edu/~htzheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heather Zheng&lt;/a&gt; in 2019.&lt;/p&gt;
+&lt;p&gt;(Email: &lt;a href=&#34;mailto:qgxie@gatech.edu&#34;&gt;qgxie@gatech.edu&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qingyuan Gong</title>
+      <link>xqgtiti.github.io/author/qingyuan-gong/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/author/qingyuan-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xin Wang</title>
+      <link>xqgtiti.github.io/author/xin-wang/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/author/xin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinlei He</title>
+      <link>xqgtiti.github.io/author/xinlei-he/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/author/xinlei-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Chen</title>
+      <link>xqgtiti.github.io/author/yang-chen/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/author/yang-chen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sept. 2018 - Dec. 2018</title>
@@ -29,34 +98,6 @@
     </item>
     
     <item>
-      <title>Ben Y. Zhao</title>
-      <link>xqgtiti.github.io/author/ben-y.-zhao/</link>
-      <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
-      <guid>xqgtiti.github.io/author/ben-y.-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qinge Xie</title>
-      <link>xqgtiti.github.io/author/qinge-xie/</link>
-      <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
-      <guid>xqgtiti.github.io/author/qinge-xie/</guid>
-      <description>&lt;p&gt;Hi, I&#39;m Qinge Xie (谢秦歌). I just graduated from Fudan University as a master student worked with Mobile Systems and Networking (MSN) Group, and was advised by Prof. 
-&lt;a href=&#34;https://chenyang03.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yang Chen&lt;/a&gt;. I am a research intern at NIS Lab in Tsinghua University and Qi An Xin Technology Research Institute now, supervised by Prof. 
-&lt;a href=&#34;https://netsec.ccert.edu.cn/people/duanhx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haixin Duan&lt;/a&gt;. I will join Georgia Tech as a PhD student in Computer Science, and work with Prof. 
-&lt;a href=&#34;https://frankli.ece.gatech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Li&lt;/a&gt; at the 
-&lt;a href=&#34;https://bees.ece.gatech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BEES Lab&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I visited Aalto University in the 
-&lt;a href=&#34;http://mobilecloud.aalto.fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mobile Cloud Computing Group&lt;/a&gt;, supervised by Prof. 
-&lt;a href=&#34;https://people.aalto.fi/yu.xiao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yu Xiao&lt;/a&gt; in 2018 and visited the University of Chicago as a research intern in 
-&lt;a href=&#34;http://sandlab.cs.uchicago.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sand Lab&lt;/a&gt;, supervised by Prof. 
-&lt;a href=&#34;http://people.cs.uchicago.edu/~ravenben/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Y. Zhao&lt;/a&gt; and Prof. 
-&lt;a href=&#34;http://people.cs.uchicago.edu/~htzheng/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heather Zheng&lt;/a&gt; in 2019.&lt;/p&gt;
-&lt;p&gt;My research interests are primarily in systems and security, particularly in mobile systems and security problems for system. (Email: &lt;a href=&#34;mailto:qgxie17@fudan.edu.cn&#34;&gt;qgxie17@fudan.edu.cn&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Tiancheng Guo</title>
       <link>xqgtiti.github.io/author/tiancheng-guo/</link>
       <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
@@ -65,50 +106,10 @@
     </item>
     
     <item>
-      <title>Xin Wang</title>
-      <link>xqgtiti.github.io/author/xin-wang/</link>
-      <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
-      <guid>xqgtiti.github.io/author/xin-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yang Chen</title>
-      <link>xqgtiti.github.io/author/yang-chen/</link>
-      <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
-      <guid>xqgtiti.github.io/author/yang-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yu Xiao</title>
       <link>xqgtiti.github.io/author/yu-xiao/</link>
       <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
       <guid>xqgtiti.github.io/author/yu-xiao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Haitao Zheng</title>
-      <link>xqgtiti.github.io/author/haitao-zheng/</link>
-      <pubDate>Mon, 06 Jan 2020 01:25:04 +0800</pubDate>
-      <guid>xqgtiti.github.io/author/haitao-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qingyuan Gong</title>
-      <link>xqgtiti.github.io/author/qingyuan-gong/</link>
-      <pubDate>Mon, 06 Jan 2020 01:25:04 +0800</pubDate>
-      <guid>xqgtiti.github.io/author/qingyuan-gong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xinlei He</title>
-      <link>xqgtiti.github.io/author/xinlei-he/</link>
-      <pubDate>Mon, 06 Jan 2020 01:25:04 +0800</pubDate>
-      <guid>xqgtiti.github.io/author/xinlei-he/</guid>
       <description></description>
     </item>
     

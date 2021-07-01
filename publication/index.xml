@@ -5,7 +5,7 @@
     <link>xqgtiti.github.io/publication/</link>
       <atom:link href="xqgtiti.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2020 01:24:49 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 01:25:04 +0800</lastBuildDate>
     <image>
       <url>/xqgtiti.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction.</title>
-      <link>xqgtiti.github.io/publication/traffic/</link>
-      <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
-      <guid>xqgtiti.github.io/publication/traffic/</guid>
+      <title>Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions.</title>
+      <link>xqgtiti.github.io/publication/mini/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/publication/mini/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions.</title>
-      <link>xqgtiti.github.io/publication/mini/</link>
-      <pubDate>Mon, 06 Jan 2020 01:25:04 +0800</pubDate>
-      <guid>xqgtiti.github.io/publication/mini/</guid>
+      <title>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction.</title>
+      <link>xqgtiti.github.io/publication/traffic/</link>
+      <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
+      <guid>xqgtiti.github.io/publication/traffic/</guid>
       <description></description>
     </item>
     
