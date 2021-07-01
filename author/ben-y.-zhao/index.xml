@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Y. Zhao | Qinge Xie&#39;s Homepage</title>
+    <link>xqgtiti.github.io/author/ben-y.-zhao/</link>
+      <atom:link href="xqgtiti.github.io/author/ben-y.-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Y. Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 01:25:04 +0800</lastBuildDate>
+    <image>
+      <url>/xqgtiti.github.io/author/ben-y.-zhao/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Ben Y. Zhao</title>
+      <link>xqgtiti.github.io/author/ben-y.-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions.</title>
+      <link>xqgtiti.github.io/publication/mini/</link>
+      <pubDate>Sun, 06 Jun 2021 01:25:04 +0800</pubDate>
+      <guid>xqgtiti.github.io/publication/mini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction.</title>
+      <link>xqgtiti.github.io/publication/traffic/</link>
+      <pubDate>Sat, 08 Aug 2020 01:24:49 +0800</pubDate>
+      <guid>xqgtiti.github.io/publication/traffic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
