@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abcc6127-b1e3-46d5-9ad4-fddd52799c94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authors/admin/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/authors/admin/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/教程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/教程/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/wowchemy.f0cf03b20998d63e314819fa4a90c13f.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/wowchemy.f0cf03b20998d63e314819fa4a90c13f.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/getting-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/getting-started/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/example/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/0/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/city/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/city/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/example/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/lbs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/lbs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/mini/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/mini/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/swarm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/swarm/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/traffic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/traffic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/academic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/academic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/deep-learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/deep-learning/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/开源/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/开源/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk/example-talk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/talk/example-talk/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +49,7 @@
       <workItem from="1629328443422" duration="2931000" />
       <workItem from="1629597239113" duration="290000" />
       <workItem from="1631245263599" duration="10000" />
-      <workItem from="1634327318816" duration="897000" />
+      <workItem from="1634327318816" duration="1230000" />
     </task>
     <servers />
   </component>
