@@ -271,24 +271,6 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://xqgtiti.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://xqgtiti.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://xqgtiti.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://xqgtiti.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Understanding User Activity Patterns of the Swarm App: A Data-driven Study</title>
       <link>https://xqgtiti.github.io/publication/swarm/</link>
       <pubDate>Mon, 11 Sep 2017 17:11:48 -0400</pubDate>
