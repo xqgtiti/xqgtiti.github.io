@@ -3,19 +3,19 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>http://localhost:1313/</loc>
+        <loc>https://xqgtiti.github.io/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:1313/about/</loc>
+        <loc>https://xqgtiti.github.io/about/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:1313/categories/</loc>
+        <loc>https://xqgtiti.github.io/categories/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:1313/tags/</loc>
+        <loc>https://xqgtiti.github.io/tags/</loc>
     </url>
     
 </urlset>
